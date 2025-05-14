@@ -84,14 +84,6 @@ src/
 └── app.module.ts   # Módulo principal
 ```
 
-## 🔒 Autenticación
-
-El proyecto incluye una configuración básica de autenticación con:
-- JWT
-- Guards
-- Decoradores personalizados
-- Estrategias de Passport
-
 ## 📚 Documentación API
 
 La documentación Swagger está disponible en:
